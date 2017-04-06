@@ -1,0 +1,18 @@
+body {
+    background-color: lightgray;
+    font-family: Impact, Charcoal, sans-serif;
+    color: darkslategrey;
+}
+h1 {
+    color: lightpink;
+}
+img {
+    float: left;
+    padding: 10px;
+}
+#rcorners {
+    border-radius: 25px;
+    background: lightpink;
+    padding: 20px; 
+    width: 940px;  
+}
