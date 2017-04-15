@@ -1,0 +1,15 @@
+body {
+    
+}
+#rightPrint {
+    position: absolute;
+    right: 200px;
+}
+#leftPrint {
+    position: absolute;
+    left: 200px;
+}
+h2 {
+    text-align: center;
+
+}
